@@ -7,7 +7,8 @@
 - 🌱 I’m currently an Undergraduate at University Of Colombo School Of Computing.
 
 ## 📫 How to reach me:
-<a href="https://www.linkedin.com/in/dulanjali-gedarawattage-8b7a00193?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhuBWzHkhRvSpImY0QImeHQ%3D%3D"><img align="left" alt="LinkedIn" width="50px" height="20px"  src="linedin.png" /></a>
+-  <a href="https://www.linkedin.com/in/dulanjali-gedarawattage-8b7a00193?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhuBWzHkhRvSpImY0QImeHQ%3D%3D"><img align="left" alt="LinkedIn" width="50px" height="20px" 
+ src="linedin.png" /></a>
 
 <br /><br />
 
