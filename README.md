@@ -25,6 +25,9 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
+ <a href="https://github.com/Piyumi047">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Piyumi047&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
 
 <img align="left" alt="Dula's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyumi047" />
 
