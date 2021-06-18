@@ -1,7 +1,7 @@
 ## Hi There 👋 
  <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Piyumi047=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Piyumi047&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
  
 - 🎻 I’m @Dulanjali  Gedarawttage.Thanks for visiting my Github...😃
 
