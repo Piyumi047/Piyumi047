@@ -1,5 +1,5 @@
 ## Hi There 👋 
- <img align="center" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
+ <img align="center" margin="50" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Piyumi047&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
  
