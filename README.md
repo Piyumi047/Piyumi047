@@ -39,6 +39,8 @@
 
 </details>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyumi047Ioannou&theme=tokyonight)
+
 
 <!---
 Piyumi047/Piyumi047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
