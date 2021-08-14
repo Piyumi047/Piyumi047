@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently an Undergraduate at University Of Colombo School Of Computing.
 
-- 👨‍💻 All of my projects are available at [https://piyumi047.github.io/mysite1/](https://piyumi047.github.io/mysite1/t)
+- 👨‍💻 All of my projects are available at [https://piyumi047.github.io/mysite1/](https://piyumi047.github.io/mysite1/)
 
 
 <h3 align="left">Connect with me:</h3>
