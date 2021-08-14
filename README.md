@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Dulanjali Gedarawttage</h1>
+ <h1 align="center">Hi 👋, I'm Dulanjali Gedarawattage</h1>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyumi047&label=Profile%20views&color=0e75b6&style=flat" alt="piyumi047" /> </p>
  <p align="center"><img align="center" margin="50" alt="GIF" src="code.gif?raw=true" width="500" height="320" /></p>
  
@@ -50,7 +50,7 @@
  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyumi047&show_icons=true&locale=en&layout=compact" alt="piyumi047" /></p>
-<br/>
+<br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyumi047&show_icons=true&locale=en" alt="piyumi047" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyumi047&" alt="piyumi047" /></p>
