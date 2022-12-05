@@ -7,6 +7,7 @@
 - 🔭 I’m currently an Undergraduate at University Of Colombo School Of Computing.
 
 - 👨‍💻 All of my projects are available at [visit_portfolio](https://piyumi047.github.io/mysite1)
+- Visit my Blog [FORCE JOURNEY](https://forcejourneywithdula.blogspot.com/)
 
 
 <h3 align="left">Connect with me:</h3>
