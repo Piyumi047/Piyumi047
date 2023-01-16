@@ -50,8 +50,9 @@
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyumi047&show_icons=true&locale=en&layout=compact" alt="piyumi047" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyumi047&layout=compact" alt="piyumi047" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=piyumi047&show_icons=true&theme=radical" alt="piyumi047" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyumi047" alt="piyumi047" /></p>
+
 <br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyumi047&show_icons=true&locale=en" alt="piyumi047" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyumi047&show_icons=true&locale=en" alt="piyumi047" /></p>
